@@ -1,0 +1,116 @@
+	.header{
+		padding: 16px 0px;
+	border-bottom: 1px solid #eee;
+}
+.container{text-align: left;
+
+}
+
+	.logo{
+		float: left;
+	}
+.logo img{
+		min-height: -38px;
+		margin-left: 50px;
+}
+	.menu{ 
+		text-align:right;
+
+
+}
+	.menu ul li {
+		list-style: none;
+		display: inline-block;
+    	margin-right: 10px;
+    	margin-left: 40px;
+	
+}
+.menu ul li a{
+		color: #6b6b6b;
+		display: flex;
+		
+}
+.item-1 h2{
+	float: left;
+	margin-left:- 60px;
+	margin-bottom: 120px;
+	color: green;
+}
+h1{
+	text-align: center;
+	margin-top: 80px;
+}
+span{
+	color: blue;
+	font-size: 30px;
+	text-align: center;
+}
+p{
+	font-size:20px;
+	color: yellow;
+	text-shadow: 1px 1px 1px black, 0 0 2px blue, 0 0 3px darkblue;
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+	margin-right: 100px;
+	}
+.blog{
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 467px;
+	margin-top: 130px;
+
+}
+ .left h3{
+	color: red;
+	font-size: 50px;
+	margin-left: 330px;
+	margin-bottom: 45px;
+
+	
+}
+
+.right h4{ 
+	font-size: 40px;
+	margin-left:709px;
+	margin-top: -199px;
+	text-align: left;
+	
+}
+.wrapper{
+	display: flex;
+	 width: 1500px;
+	height: 500px;
+}
+.image-1{
+	margin-right: 43px;
+	border: 30px;
+
+
+}
+.image-2{
+	margin-left: 10px;
+
+}
+.image-3{
+	margin-left: 40px;
+}
+ .contact h1{
+ 	text-decoration-line: underline;
+ 	 color: white;
+  text-shadow: 1px 1px 1px black, 0 0 2px blue, 0 0 3px darkblue;
+  padding-right: 300px;
+
+
+}
+.footer {text-align: center;
+  padding: 3px;
+  background-color:#7ae7e9b8;
+  color: #2158b1;
+  margin-top: 247px;
+  width: 100%;
+  padding-right: 50px;
+}
